@@ -10,8 +10,10 @@ I learned to use GitHub Pages and Markdown.
 ---
 
 ## Quote
-< Jos ei jaksa nii koittakaa vaan jaksaa.
+> Jos ei jaksa nii koittakaa vaan jaksaa.
 — Niilo22
+
+---
 
 ### WebAssembly Demo
 
