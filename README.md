@@ -1,18 +1,13 @@
-# 🎯 My GitHub Pages Site
+My GitHub Pages Site
 
 Welcome to my cloud course assignment!
 
-## 📌 About
+About
 This is a simple static website created using **GitHub Pages** and Markdown.
 
-## 🚀 Features
-- Markdown formatting
-- Lists
-- Code blocks
-- Images
-- Links
+## 🧪 Demo Applications
 
-## 🧠 Example Code
+### 🎮 WebAssembly demo
+Try a browser-based application:
 
-```python
-print("Hello Cloud!")# my-github-pages-site
+👉 https://webamp.org/
