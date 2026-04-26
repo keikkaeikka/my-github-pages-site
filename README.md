@@ -9,9 +9,13 @@ I learned to use GitHub Pages and Markdown.
 
 ---
 
-## WebAssembly Demo
+## Quote
+< Jos ei jaksa nii koittakaa vaan jaksaa.
+— Niilo22
 
-Try a browser-based application:
+### WebAssembly Demo
+
+***Try a browser-based application:***
 
 [Open Webamp](https://webamp.org/)
 
