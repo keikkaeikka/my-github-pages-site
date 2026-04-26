@@ -5,9 +5,6 @@ Welcome to my cloud course assignment!
 About
 This is a simple static website created using **GitHub Pages** and Markdown.
 
-## 🧪 Demo Applications
-
-### 🎮 WebAssembly demo
+WebAssembly demo
 Try a browser-based application:
-
-👉 https://webamp.org/
+https://webamp.org/
