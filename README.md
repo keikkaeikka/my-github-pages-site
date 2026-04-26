@@ -1,19 +1,19 @@
-#  My GitHub Pages Site
+#  Pilvipalveluiden extra-tehtävä E
 
-Welcome to my cloud course assignment!
-
----
-
-##  About
-This is a simple static website created using GitHub Pages and Markdown.
+Welcome!
 
 ---
 
-##  WebAssembly Demo
+## About
+I learned to use GitHub Pages and Markdown.
+
+---
+
+## WebAssembly Demo
 
 Try a browser-based application:
 
- [Open Webamp](https://webamp.org/)
+[Open Webamp](https://webamp.org/)
 
 ---
 
